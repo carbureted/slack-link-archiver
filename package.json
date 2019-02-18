@@ -1,0 +1,19 @@
+{
+  "name": "archive-link-responder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^4.9.0",
+    "@slack/events-api": "^2.1.1",
+    "archive.is": "0.0.2",
+    "get-urls": "^8.0.0",
+    "linkifyjs": "^2.1.8",
+    "url-parse": "^1.4.4"
+  }
+}
